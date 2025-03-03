@@ -11,3 +11,4 @@ zmk-nice-oled
 zmk-shield-nice-view-cats
 .direnv
 .build/
+zmk-*

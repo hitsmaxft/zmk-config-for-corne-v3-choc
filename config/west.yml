@@ -16,6 +16,10 @@ manifest:
       url-base: https://github.com/s6t
     - name: infely
       url-base: https://github.com/infely
+    - name: urob
+      url-base: https://github.com/urob
+    - name: petejohanson
+      url-base: https://github.com/petejohanson
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -38,6 +42,9 @@ manifest:
       revision: main
     - name: nice-view-battery
       remote: infely
+      revision: main
+    - name: zmk-helpers
+      remote: urob
       revision: main
   self:
     path: config
