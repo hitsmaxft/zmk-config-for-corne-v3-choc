@@ -1,0 +1,13 @@
+firmware
+hammerbeam-slideshow
+modules
+nice-view-battery
+nice-view-elemental
+nice-view-gem
+nix
+zephyr
+zmk
+zmk-nice-oled
+zmk-shield-nice-view-cats
+.direnv
+.build/
